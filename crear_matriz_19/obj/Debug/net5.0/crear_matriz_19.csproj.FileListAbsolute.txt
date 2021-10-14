@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\crear_matriz_19.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\crear_matriz_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\crear_matriz_19.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\crear_matriz_19.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\crear_matriz_19.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\bin\Debug\net5.0\crear_matriz_19.exe
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\bin\Debug\net5.0\crear_matriz_19.deps.json
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\bin\Debug\net5.0\crear_matriz_19.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\bin\Debug\net5.0\crear_matriz_19.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\bin\Debug\net5.0\crear_matriz_19.dll
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\bin\Debug\net5.0\ref\crear_matriz_19.dll
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\bin\Debug\net5.0\crear_matriz_19.pdb
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\crear_matriz_19.dll
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\ref\crear_matriz_19.dll
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\crear_matriz_19.pdb
+D:\Jobs\c#_hbr_Solutions\crear_matriz_19\obj\Debug\net5.0\crear_matriz_19.genruntimeconfig.cache

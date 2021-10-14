@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\escribir_numeros_while_8.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\escribir_numeros_while_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\escribir_numeros_while_8.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\escribir_numeros_while_8.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\escribir_numeros_while_8.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\bin\Debug\net5.0\escribir_numeros_while_8.exe
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\bin\Debug\net5.0\escribir_numeros_while_8.deps.json
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\bin\Debug\net5.0\escribir_numeros_while_8.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\bin\Debug\net5.0\escribir_numeros_while_8.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\bin\Debug\net5.0\escribir_numeros_while_8.dll
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\bin\Debug\net5.0\ref\escribir_numeros_while_8.dll
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\bin\Debug\net5.0\escribir_numeros_while_8.pdb
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\escribir_numeros_while_8.dll
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\ref\escribir_numeros_while_8.dll
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\escribir_numeros_while_8.pdb
+D:\Jobs\c#_hbr_Solutions\escribir_numeros_while_8\obj\Debug\net5.0\escribir_numeros_while_8.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\paises_y_poblacion_18.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\paises_y_poblacion_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\paises_y_poblacion_18.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\paises_y_poblacion_18.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\paises_y_poblacion_18.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\bin\Debug\net5.0\paises_y_poblacion_18.exe
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\bin\Debug\net5.0\paises_y_poblacion_18.deps.json
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\bin\Debug\net5.0\paises_y_poblacion_18.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\bin\Debug\net5.0\paises_y_poblacion_18.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\bin\Debug\net5.0\paises_y_poblacion_18.dll
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\bin\Debug\net5.0\ref\paises_y_poblacion_18.dll
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\bin\Debug\net5.0\paises_y_poblacion_18.pdb
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\paises_y_poblacion_18.dll
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\ref\paises_y_poblacion_18.dll
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\paises_y_poblacion_18.pdb
+D:\Jobs\c#_hbr_Solutions\paises_y_poblacion_18\obj\Debug\net5.0\paises_y_poblacion_18.genruntimeconfig.cache

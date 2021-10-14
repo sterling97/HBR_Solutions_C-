@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "analiza_signos_numericos_6/1.0.0": {
+        "runtime": {
+          "analiza_signos_numericos_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "analiza_signos_numericos_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\bin\Debug\net5.0\contador_1_a_10.exe
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\bin\Debug\net5.0\contador_1_a_10.deps.json
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\bin\Debug\net5.0\contador_1_a_10.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\bin\Debug\net5.0\contador_1_a_10.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\bin\Debug\net5.0\contador_1_a_10.dll
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\bin\Debug\net5.0\ref\contador_1_a_10.dll
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\bin\Debug\net5.0\contador_1_a_10.pdb
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\contador_1_a_10.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\contador_1_a_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\contador_1_a_10.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\contador_1_a_10.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\contador_1_a_10.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\contador_1_a_10.dll
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\ref\contador_1_a_10.dll
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\contador_1_a_10.pdb
+D:\Jobs\c#_hbr_Solutions\contador_1_a_10\obj\Debug\net5.0\contador_1_a_10.genruntimeconfig.cache

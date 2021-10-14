@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "numeros_descendiendo_12/1.0.0": {
+        "runtime": {
+          "numeros_descendiendo_12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "numeros_descendiendo_12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

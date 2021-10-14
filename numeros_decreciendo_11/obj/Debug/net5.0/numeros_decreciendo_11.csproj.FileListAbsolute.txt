@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\bin\Debug\net5.0\numeros_decreciendo_11.exe
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\bin\Debug\net5.0\numeros_decreciendo_11.deps.json
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\bin\Debug\net5.0\numeros_decreciendo_11.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\bin\Debug\net5.0\numeros_decreciendo_11.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\bin\Debug\net5.0\numeros_decreciendo_11.dll
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\bin\Debug\net5.0\ref\numeros_decreciendo_11.dll
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\bin\Debug\net5.0\numeros_decreciendo_11.pdb
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\numeros_decreciendo_11.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\numeros_decreciendo_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\numeros_decreciendo_11.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\numeros_decreciendo_11.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\numeros_decreciendo_11.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\numeros_decreciendo_11.dll
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\ref\numeros_decreciendo_11.dll
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\numeros_decreciendo_11.pdb
+D:\Jobs\c#_hbr_Solutions\numeros_decreciendo_11\obj\Debug\net5.0\numeros_decreciendo_11.genruntimeconfig.cache

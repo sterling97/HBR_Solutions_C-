@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "validar_multiplos_2/1.0.0": {
+        "runtime": {
+          "validar_multiplos_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "validar_multiplos_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\bin\Debug\net5.0\des_escribe_numero_con_while_9.exe
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\bin\Debug\net5.0\des_escribe_numero_con_while_9.deps.json
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\bin\Debug\net5.0\des_escribe_numero_con_while_9.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\bin\Debug\net5.0\des_escribe_numero_con_while_9.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\bin\Debug\net5.0\des_escribe_numero_con_while_9.dll
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\bin\Debug\net5.0\ref\des_escribe_numero_con_while_9.dll
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\bin\Debug\net5.0\des_escribe_numero_con_while_9.pdb
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\des_escribe_numero_con_while_9.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\des_escribe_numero_con_while_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\des_escribe_numero_con_while_9.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\des_escribe_numero_con_while_9.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\des_escribe_numero_con_while_9.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\des_escribe_numero_con_while_9.dll
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\ref\des_escribe_numero_con_while_9.dll
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\des_escribe_numero_con_while_9.pdb
+D:\Jobs\c#_hbr_Solutions\des_escribe_numero_con_while_9\obj\Debug\net5.0\des_escribe_numero_con_while_9.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\formatos_salida\bin\Debug\net5.0\formatos_salida.exe
+D:\Jobs\c#_hbr_Solutions\formatos_salida\bin\Debug\net5.0\formatos_salida.deps.json
+D:\Jobs\c#_hbr_Solutions\formatos_salida\bin\Debug\net5.0\formatos_salida.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\formatos_salida\bin\Debug\net5.0\formatos_salida.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\formatos_salida\bin\Debug\net5.0\formatos_salida.dll
+D:\Jobs\c#_hbr_Solutions\formatos_salida\bin\Debug\net5.0\ref\formatos_salida.dll
+D:\Jobs\c#_hbr_Solutions\formatos_salida\bin\Debug\net5.0\formatos_salida.pdb
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\formatos_salida.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\formatos_salida.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\formatos_salida.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\formatos_salida.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\formatos_salida.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\formatos_salida.dll
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\ref\formatos_salida.dll
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\formatos_salida.pdb
+D:\Jobs\c#_hbr_Solutions\formatos_salida\obj\Debug\net5.0\formatos_salida.genruntimeconfig.cache

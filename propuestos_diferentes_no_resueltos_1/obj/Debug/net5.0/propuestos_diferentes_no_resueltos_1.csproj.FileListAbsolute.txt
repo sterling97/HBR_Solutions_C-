@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\propuestos_diferentes_no_resueltos_1.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\propuestos_diferentes_no_resueltos_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\propuestos_diferentes_no_resueltos_1.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\propuestos_diferentes_no_resueltos_1.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\propuestos_diferentes_no_resueltos_1.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\bin\Debug\net5.0\propuestos_diferentes_no_resueltos_1.exe
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\bin\Debug\net5.0\propuestos_diferentes_no_resueltos_1.deps.json
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\bin\Debug\net5.0\propuestos_diferentes_no_resueltos_1.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\bin\Debug\net5.0\propuestos_diferentes_no_resueltos_1.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\bin\Debug\net5.0\propuestos_diferentes_no_resueltos_1.dll
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\bin\Debug\net5.0\ref\propuestos_diferentes_no_resueltos_1.dll
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\bin\Debug\net5.0\propuestos_diferentes_no_resueltos_1.pdb
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\propuestos_diferentes_no_resueltos_1.dll
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\ref\propuestos_diferentes_no_resueltos_1.dll
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\propuestos_diferentes_no_resueltos_1.pdb
+D:\Jobs\c#_hbr_Solutions\propuestos_diferentes_no_resueltos_1\obj\Debug\net5.0\propuestos_diferentes_no_resueltos_1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\primeros_8_numeros_pares_13.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\primeros_8_numeros_pares_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\primeros_8_numeros_pares_13.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\primeros_8_numeros_pares_13.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\primeros_8_numeros_pares_13.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\bin\Debug\net5.0\primeros_8_numeros_pares_13.exe
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\bin\Debug\net5.0\primeros_8_numeros_pares_13.deps.json
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\bin\Debug\net5.0\primeros_8_numeros_pares_13.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\bin\Debug\net5.0\primeros_8_numeros_pares_13.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\bin\Debug\net5.0\primeros_8_numeros_pares_13.dll
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\bin\Debug\net5.0\ref\primeros_8_numeros_pares_13.dll
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\bin\Debug\net5.0\primeros_8_numeros_pares_13.pdb
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\primeros_8_numeros_pares_13.dll
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\ref\primeros_8_numeros_pares_13.dll
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\primeros_8_numeros_pares_13.pdb
+D:\Jobs\c#_hbr_Solutions\primeros_8_numeros_pares_13\obj\Debug\net5.0\primeros_8_numeros_pares_13.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\bin\Debug\net5.0\multiplos_de_3_14.exe
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\bin\Debug\net5.0\multiplos_de_3_14.deps.json
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\bin\Debug\net5.0\multiplos_de_3_14.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\bin\Debug\net5.0\multiplos_de_3_14.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\bin\Debug\net5.0\multiplos_de_3_14.dll
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\bin\Debug\net5.0\ref\multiplos_de_3_14.dll
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\bin\Debug\net5.0\multiplos_de_3_14.pdb
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\multiplos_de_3_14.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\multiplos_de_3_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\multiplos_de_3_14.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\multiplos_de_3_14.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\multiplos_de_3_14.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\multiplos_de_3_14.dll
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\ref\multiplos_de_3_14.dll
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\multiplos_de_3_14.pdb
+D:\Jobs\c#_hbr_Solutions\multiplos_de_3_14\obj\Debug\net5.0\multiplos_de_3_14.genruntimeconfig.cache

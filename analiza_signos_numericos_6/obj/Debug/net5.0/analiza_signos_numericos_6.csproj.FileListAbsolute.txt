@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\analiza_signos_numericos_6.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\analiza_signos_numericos_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\analiza_signos_numericos_6.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\analiza_signos_numericos_6.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\analiza_signos_numericos_6.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\bin\Debug\net5.0\analiza_signos_numericos_6.exe
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\bin\Debug\net5.0\analiza_signos_numericos_6.deps.json
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\bin\Debug\net5.0\analiza_signos_numericos_6.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\bin\Debug\net5.0\analiza_signos_numericos_6.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\bin\Debug\net5.0\analiza_signos_numericos_6.dll
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\bin\Debug\net5.0\ref\analiza_signos_numericos_6.dll
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\bin\Debug\net5.0\analiza_signos_numericos_6.pdb
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\analiza_signos_numericos_6.dll
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\ref\analiza_signos_numericos_6.dll
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\analiza_signos_numericos_6.pdb
+D:\Jobs\c#_hbr_Solutions\analiza_signos_numericos_6\obj\Debug\net5.0\analiza_signos_numericos_6.genruntimeconfig.cache

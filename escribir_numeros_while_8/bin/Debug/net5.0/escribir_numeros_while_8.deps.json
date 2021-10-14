@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "escribir_numeros_while_8/1.0.0": {
+        "runtime": {
+          "escribir_numeros_while_8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "escribir_numeros_while_8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

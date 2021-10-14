@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\bin\Debug\net5.0\ejercicio_propuesto.exe
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\bin\Debug\net5.0\ejercicio_propuesto.deps.json
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\bin\Debug\net5.0\ejercicio_propuesto.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\bin\Debug\net5.0\ejercicio_propuesto.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\bin\Debug\net5.0\ejercicio_propuesto.dll
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\bin\Debug\net5.0\ref\ejercicio_propuesto.dll
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\bin\Debug\net5.0\ejercicio_propuesto.pdb
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ejercicio_propuesto.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ejercicio_propuesto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ejercicio_propuesto.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ejercicio_propuesto.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ejercicio_propuesto.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ejercicio_propuesto.dll
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ref\ejercicio_propuesto.dll
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ejercicio_propuesto.pdb
+D:\Jobs\c#_hbr_Solutions\ejercicio_propuesto\obj\Debug\net5.0\ejercicio_propuesto.genruntimeconfig.cache

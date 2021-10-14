@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\cargar_matriz_24.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\cargar_matriz_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\cargar_matriz_24.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\cargar_matriz_24.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\cargar_matriz_24.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\bin\Debug\net5.0\cargar_matriz_24.exe
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\bin\Debug\net5.0\cargar_matriz_24.deps.json
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\bin\Debug\net5.0\cargar_matriz_24.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\bin\Debug\net5.0\cargar_matriz_24.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\bin\Debug\net5.0\cargar_matriz_24.dll
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\bin\Debug\net5.0\ref\cargar_matriz_24.dll
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\bin\Debug\net5.0\cargar_matriz_24.pdb
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\cargar_matriz_24.dll
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\ref\cargar_matriz_24.dll
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\cargar_matriz_24.pdb
+D:\Jobs\c#_hbr_Solutions\cargar_matriz_24\obj\Debug\net5.0\cargar_matriz_24.genruntimeconfig.cache

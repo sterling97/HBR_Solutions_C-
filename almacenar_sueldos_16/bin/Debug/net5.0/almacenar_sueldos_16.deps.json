@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "almacenar_sueldos_16/1.0.0": {
+        "runtime": {
+          "almacenar_sueldos_16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "almacenar_sueldos_16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "paises_y_poblacion_18/1.0.0": {
+        "runtime": {
+          "paises_y_poblacion_18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paises_y_poblacion_18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

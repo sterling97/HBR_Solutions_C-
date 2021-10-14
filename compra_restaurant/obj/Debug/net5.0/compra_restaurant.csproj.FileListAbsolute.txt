@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\bin\Debug\net5.0\compra_restaurant.exe
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\bin\Debug\net5.0\compra_restaurant.deps.json
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\bin\Debug\net5.0\compra_restaurant.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\bin\Debug\net5.0\compra_restaurant.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\bin\Debug\net5.0\compra_restaurant.dll
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\bin\Debug\net5.0\ref\compra_restaurant.dll
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\bin\Debug\net5.0\compra_restaurant.pdb
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\compra_restaurant.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\compra_restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\compra_restaurant.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\compra_restaurant.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\compra_restaurant.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\compra_restaurant.dll
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\ref\compra_restaurant.dll
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\compra_restaurant.pdb
+D:\Jobs\c#_hbr_Solutions\compra_restaurant\obj\Debug\net5.0\compra_restaurant.genruntimeconfig.cache

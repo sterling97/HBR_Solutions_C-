@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\bin\Debug\net5.0\funciones_basicas_math.exe
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\bin\Debug\net5.0\funciones_basicas_math.deps.json
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\bin\Debug\net5.0\funciones_basicas_math.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\bin\Debug\net5.0\funciones_basicas_math.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\bin\Debug\net5.0\funciones_basicas_math.dll
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\bin\Debug\net5.0\ref\funciones_basicas_math.dll
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\bin\Debug\net5.0\funciones_basicas_math.pdb
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\funciones_basicas_math.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\funciones_basicas_math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\funciones_basicas_math.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\funciones_basicas_math.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\funciones_basicas_math.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\funciones_basicas_math.dll
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\ref\funciones_basicas_math.dll
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\funciones_basicas_math.pdb
+D:\Jobs\c#_hbr_Solutions\funciones_basicas_math\obj\Debug\net5.0\funciones_basicas_math.genruntimeconfig.cache

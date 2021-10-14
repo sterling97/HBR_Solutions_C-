@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "contador_1_a_10/1.0.0": {
+        "runtime": {
+          "contador_1_a_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "contador_1_a_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

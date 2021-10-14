@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\temperatura_paises_20.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\temperatura_paises_20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\temperatura_paises_20.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\temperatura_paises_20.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\temperatura_paises_20.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\bin\Debug\net5.0\temperatura_paises_20.exe
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\bin\Debug\net5.0\temperatura_paises_20.deps.json
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\bin\Debug\net5.0\temperatura_paises_20.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\bin\Debug\net5.0\temperatura_paises_20.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\bin\Debug\net5.0\temperatura_paises_20.dll
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\bin\Debug\net5.0\ref\temperatura_paises_20.dll
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\bin\Debug\net5.0\temperatura_paises_20.pdb
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\temperatura_paises_20.dll
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\ref\temperatura_paises_20.dll
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\temperatura_paises_20.pdb
+D:\Jobs\c#_hbr_Solutions\temperatura_paises_20\obj\Debug\net5.0\temperatura_paises_20.genruntimeconfig.cache

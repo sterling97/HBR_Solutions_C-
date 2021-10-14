@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\administrar_una_matriz_21.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\administrar_una_matriz_21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\administrar_una_matriz_21.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\administrar_una_matriz_21.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\administrar_una_matriz_21.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\bin\Debug\net5.0\administrar_una_matriz_21.exe
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\bin\Debug\net5.0\administrar_una_matriz_21.deps.json
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\bin\Debug\net5.0\administrar_una_matriz_21.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\bin\Debug\net5.0\administrar_una_matriz_21.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\bin\Debug\net5.0\administrar_una_matriz_21.dll
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\bin\Debug\net5.0\ref\administrar_una_matriz_21.dll
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\bin\Debug\net5.0\administrar_una_matriz_21.pdb
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\administrar_una_matriz_21.dll
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\ref\administrar_una_matriz_21.dll
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\administrar_una_matriz_21.pdb
+D:\Jobs\c#_hbr_Solutions\administrar_una_matriz_21\obj\Debug\net5.0\administrar_una_matriz_21.genruntimeconfig.cache

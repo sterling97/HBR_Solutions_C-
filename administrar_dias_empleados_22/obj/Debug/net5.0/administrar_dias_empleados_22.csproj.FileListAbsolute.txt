@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\bin\Debug\net5.0\administrar_dias_empleados_22.exe
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\bin\Debug\net5.0\administrar_dias_empleados_22.deps.json
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\bin\Debug\net5.0\administrar_dias_empleados_22.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\bin\Debug\net5.0\administrar_dias_empleados_22.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\bin\Debug\net5.0\administrar_dias_empleados_22.dll
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\bin\Debug\net5.0\ref\administrar_dias_empleados_22.dll
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\bin\Debug\net5.0\administrar_dias_empleados_22.pdb
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\administrar_dias_empleados_22.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\administrar_dias_empleados_22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\administrar_dias_empleados_22.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\administrar_dias_empleados_22.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\administrar_dias_empleados_22.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\administrar_dias_empleados_22.dll
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\ref\administrar_dias_empleados_22.dll
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\administrar_dias_empleados_22.pdb
+D:\Jobs\c#_hbr_Solutions\administrar_dias_empleados_22\obj\Debug\net5.0\administrar_dias_empleados_22.genruntimeconfig.cache

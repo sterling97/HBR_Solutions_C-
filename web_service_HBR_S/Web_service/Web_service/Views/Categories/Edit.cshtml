@@ -1,0 +1,99 @@
+﻿@model Web_service.CATEGORY
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>CATEGORY</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.ID)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NAME, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NAME, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NAME, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div id="msg-box" class="msg-box" style="display: none">
+        EXITOSO!!
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+
+<script>
+
+
+    window.onload = () => {
+        $(document).ready(() => {
+
+            $("form").submit(function (event) {
+
+                if ($(this).valid()) {
+                    event.preventDefault();
+                    send();
+                }
+
+            });
+
+
+            function send() {
+
+                $.ajax({
+                    type: "POST",
+                    url: "Edit",
+                    data: {
+                        __RequestVerificationToken: $("input[name='__RequestVerificationToken']").val(),
+                        ID: @Model.ID,
+                        NAME: $("#NAME").val()
+                    },
+                    success: (data) => {
+
+                        if (data.length > 0) {
+                            $("#msg-box").html("Save!!!").removeClass("sms-error").addClass("sms-success").show();
+                        } else {
+                            $("#msg-box").html("Error!!!").removeClass("sms-success").addClass("sms-error").show();
+                        }
+
+
+                        console.log(data);
+
+                    },
+                    //dataType: dataType
+                });
+
+            }
+
+
+        });
+    }
+
+
+
+</script>

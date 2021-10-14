@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\bin\Debug\net5.0\operaciones_basicas.exe
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\bin\Debug\net5.0\operaciones_basicas.deps.json
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\bin\Debug\net5.0\operaciones_basicas.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\bin\Debug\net5.0\operaciones_basicas.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\bin\Debug\net5.0\operaciones_basicas.dll
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\bin\Debug\net5.0\ref\operaciones_basicas.dll
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\bin\Debug\net5.0\operaciones_basicas.pdb
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\operaciones_basicas.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\operaciones_basicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\operaciones_basicas.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\operaciones_basicas.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\operaciones_basicas.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\operaciones_basicas.dll
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\ref\operaciones_basicas.dll
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\operaciones_basicas.pdb
+D:\Jobs\c#_hbr_Solutions\operaciones_basicas\obj\Debug\net5.0\operaciones_basicas.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\nombre_paises_17.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\nombre_paises_17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\nombre_paises_17.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\nombre_paises_17.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\nombre_paises_17.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\bin\Debug\net5.0\nombre_paises_17.exe
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\bin\Debug\net5.0\nombre_paises_17.deps.json
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\bin\Debug\net5.0\nombre_paises_17.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\bin\Debug\net5.0\nombre_paises_17.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\bin\Debug\net5.0\nombre_paises_17.dll
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\bin\Debug\net5.0\ref\nombre_paises_17.dll
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\bin\Debug\net5.0\nombre_paises_17.pdb
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\nombre_paises_17.dll
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\ref\nombre_paises_17.dll
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\nombre_paises_17.pdb
+D:\Jobs\c#_hbr_Solutions\nombre_paises_17\obj\Debug\net5.0\nombre_paises_17.genruntimeconfig.cache

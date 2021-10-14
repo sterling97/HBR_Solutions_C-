@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\bin\Debug\net5.0\mayor_entre_tres_numeros.exe
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\bin\Debug\net5.0\mayor_entre_tres_numeros.deps.json
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\bin\Debug\net5.0\mayor_entre_tres_numeros.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\bin\Debug\net5.0\mayor_entre_tres_numeros.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\bin\Debug\net5.0\mayor_entre_tres_numeros.dll
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\bin\Debug\net5.0\ref\mayor_entre_tres_numeros.dll
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\bin\Debug\net5.0\mayor_entre_tres_numeros.pdb
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\mayor_entre_tres_numeros.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\mayor_entre_tres_numeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\mayor_entre_tres_numeros.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\mayor_entre_tres_numeros.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\mayor_entre_tres_numeros.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\mayor_entre_tres_numeros.dll
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\ref\mayor_entre_tres_numeros.dll
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\mayor_entre_tres_numeros.pdb
+D:\Jobs\c#_hbr_Solutions\mayor_entre_tres_numeros\obj\Debug\net5.0\mayor_entre_tres_numeros.genruntimeconfig.cache

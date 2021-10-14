@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\validar_multiplos_2.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\validar_multiplos_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\validar_multiplos_2.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\validar_multiplos_2.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\validar_multiplos_2.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\bin\Debug\net5.0\validar_multiplos_2.exe
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\bin\Debug\net5.0\validar_multiplos_2.deps.json
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\bin\Debug\net5.0\validar_multiplos_2.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\bin\Debug\net5.0\validar_multiplos_2.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\bin\Debug\net5.0\validar_multiplos_2.dll
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\bin\Debug\net5.0\ref\validar_multiplos_2.dll
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\bin\Debug\net5.0\validar_multiplos_2.pdb
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\validar_multiplos_2.dll
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\ref\validar_multiplos_2.dll
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\validar_multiplos_2.pdb
+D:\Jobs\c#_hbr_Solutions\validar_multiplos_2\obj\Debug\net5.0\validar_multiplos_2.genruntimeconfig.cache

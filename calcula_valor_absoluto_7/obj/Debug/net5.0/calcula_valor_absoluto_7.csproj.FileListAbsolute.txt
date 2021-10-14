@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\bin\Debug\net5.0\calcula_valor_absoluto_7.exe
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\bin\Debug\net5.0\calcula_valor_absoluto_7.deps.json
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\bin\Debug\net5.0\calcula_valor_absoluto_7.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\bin\Debug\net5.0\calcula_valor_absoluto_7.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\bin\Debug\net5.0\calcula_valor_absoluto_7.dll
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\bin\Debug\net5.0\ref\calcula_valor_absoluto_7.dll
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\bin\Debug\net5.0\calcula_valor_absoluto_7.pdb
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\calcula_valor_absoluto_7.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\calcula_valor_absoluto_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\calcula_valor_absoluto_7.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\calcula_valor_absoluto_7.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\calcula_valor_absoluto_7.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\calcula_valor_absoluto_7.dll
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\ref\calcula_valor_absoluto_7.dll
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\calcula_valor_absoluto_7.pdb
+D:\Jobs\c#_hbr_Solutions\calcula_valor_absoluto_7\obj\Debug\net5.0\calcula_valor_absoluto_7.genruntimeconfig.cache

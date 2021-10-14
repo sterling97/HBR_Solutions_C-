@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\bin\Debug\net5.0\invertir_numeros_dos_cifras.exe
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\bin\Debug\net5.0\invertir_numeros_dos_cifras.deps.json
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\bin\Debug\net5.0\invertir_numeros_dos_cifras.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\bin\Debug\net5.0\invertir_numeros_dos_cifras.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\bin\Debug\net5.0\invertir_numeros_dos_cifras.dll
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\bin\Debug\net5.0\ref\invertir_numeros_dos_cifras.dll
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\bin\Debug\net5.0\invertir_numeros_dos_cifras.pdb
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\invertir_numeros_dos_cifras.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\invertir_numeros_dos_cifras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\invertir_numeros_dos_cifras.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\invertir_numeros_dos_cifras.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\invertir_numeros_dos_cifras.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\invertir_numeros_dos_cifras.dll
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\ref\invertir_numeros_dos_cifras.dll
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\invertir_numeros_dos_cifras.pdb
+D:\Jobs\c#_hbr_Solutions\invertir_numeros_dos_cifras\obj\Debug\net5.0\invertir_numeros_dos_cifras.genruntimeconfig.cache

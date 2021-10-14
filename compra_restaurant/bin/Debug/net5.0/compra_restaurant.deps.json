@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "compra_restaurant/1.0.0": {
+        "runtime": {
+          "compra_restaurant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "compra_restaurant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

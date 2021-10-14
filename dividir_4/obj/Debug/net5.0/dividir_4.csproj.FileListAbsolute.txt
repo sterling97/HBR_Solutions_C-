@@ -1,0 +1,16 @@
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\dividir_4.csproj.AssemblyReference.cache
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\dividir_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\dividir_4.AssemblyInfoInputs.cache
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\dividir_4.AssemblyInfo.cs
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\dividir_4.csproj.CoreCompileInputs.cache
+D:\Jobs\c#_hbr_Solutions\dividir_4\bin\Debug\net5.0\dividir_4.exe
+D:\Jobs\c#_hbr_Solutions\dividir_4\bin\Debug\net5.0\dividir_4.deps.json
+D:\Jobs\c#_hbr_Solutions\dividir_4\bin\Debug\net5.0\dividir_4.runtimeconfig.json
+D:\Jobs\c#_hbr_Solutions\dividir_4\bin\Debug\net5.0\dividir_4.runtimeconfig.dev.json
+D:\Jobs\c#_hbr_Solutions\dividir_4\bin\Debug\net5.0\dividir_4.dll
+D:\Jobs\c#_hbr_Solutions\dividir_4\bin\Debug\net5.0\ref\dividir_4.dll
+D:\Jobs\c#_hbr_Solutions\dividir_4\bin\Debug\net5.0\dividir_4.pdb
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\dividir_4.dll
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\ref\dividir_4.dll
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\dividir_4.pdb
+D:\Jobs\c#_hbr_Solutions\dividir_4\obj\Debug\net5.0\dividir_4.genruntimeconfig.cache
